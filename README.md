@@ -2,9 +2,8 @@
 
 This repository contains the official PyTorch implementation for the research project "Meta-Learning the Latent Manifold with Learnable-Interaction Neurons." We introduce the ConvChebyshevVAE, a novel non-deterministic unsupervised model designed for high-quality data generation and learning structured, interpretable latent spaces.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Reconstructions from the ConvChebyshevVAE](reconstructions.png)
+![Reconstructions from the ConvChebyshevVAE](opti_results_new/ModelE_Conv_Optimized/reconstructions.png)
 *<p align="center">High-fidelity reconstructions from the proposed ConvChebyshevVAE (Model E).</p>*
 
 ---
